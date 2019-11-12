@@ -1,4 +1,4 @@
-# IBM Cloud Private 설치하기
+# IBM Cloud Private 3.2.1 와 MCM 3.2.1 설치하기
 
 자세한 내용은 [Link](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.2.1/installing/install_containers.html) 참고
 
