@@ -161,8 +161,6 @@ Docker 설치 방법에 대한 상세 내용은 다음 [링크](https://www.ibm.
     - '(.*)'
     ```
 
-    ![icp-install-5](./images/icp-install-5.png)
-
 1. 클러스터 이름 변경하기
 ![icp-install-6](./images/icp-install-6.png)
 
